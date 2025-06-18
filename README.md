@@ -1,5 +1,3 @@
-# Hi there! 👋
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Nombuso!;Coding+Student+%26+Developer;Frontend+Enthusiast;Building+Fullstack+Skills;Always+Learning+Something+New!&font=Fira%20Code&center=true&width=500&height=60&color=58a6ff&vCenter=true&size=22)
 
 - 🎯 **Current Focus**: Frontend development with a growing fullstack foundation
